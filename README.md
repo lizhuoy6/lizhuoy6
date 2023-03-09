@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**lizhuoy6/lizhuoy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sammi!
 
-Here are some ideas to get you started:
+* [My Portfolio](https://itsmytyp.com/)
+* [My LinkedIn](https://www.linkedin.com/in/zhuoying-l-117399152/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Education
+
+```python
+education = [
+  {
+    'school': 'University of Toronto',
+    'degree': 'Master of Information',
+    'major': 'User Experience Design',
+    'graduation_date': None
+  },
+  {
+    'school': 'University of Toronto',
+    'degree': 'Hons. Bachelor of Arts',
+    'major': 'Statstics & Media Studies',
+    'graducation_date': '2022-06'
+  }
+]
+```
